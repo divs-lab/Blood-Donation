@@ -1,0 +1,8 @@
+{
+  "name": "LifeStream: National Blood Coordination Platform",
+  "description": "A government-grade, high-fidelity inventory and coordination management system for national blood supplies, featuring specialized dashboards for donors, hospitals, and blood banks.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
