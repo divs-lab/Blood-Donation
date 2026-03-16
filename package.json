@@ -1,4 +1,5 @@
 {
+ HEAD
   "name": "lifestream:-national-blood-coordination-platform",
   "private": true,
   "version": "0.0.0",
@@ -19,5 +20,25 @@
     "@vitejs/plugin-react": "^5.0.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
+
+  "name": "bloodbank",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6"
+ dbb5b5ab43cfad10ae7b674ca668e431edd417a4
   }
 }
